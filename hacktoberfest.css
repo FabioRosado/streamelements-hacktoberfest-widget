@@ -1,0 +1,15 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: {{fontColor}};
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+}
+
+.numbers {
+	font-size: 50px;
+}

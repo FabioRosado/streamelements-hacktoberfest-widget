@@ -1,4 +1,5 @@
-<center>![](hacktoberfest.png)</center>
+<center><img src="https://github.com/FabioRosado/streamelements-hacktoberfest-widget/blob/main/hacktoberfest.png?raw=true"></center>
+
 # Hacktoberfest PR counter for Stream Elements
 
 To celebrate hacktoberfest I've created this widget to keep track of your progress, you can use it, update it, change it and do whatever you wish with it.
